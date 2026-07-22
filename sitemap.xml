@@ -1,15 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <!-- Created By http://www.zhetao.com/sitemapcreator,  URLs: 2 Generated at: 2026-07-22 23:51:33 -->
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://molei314.github.io/index.html</loc>
-    <priority>1.00</priority>
+       <loc>https://molei314.github.io/index.html</loc>
+       <lastmod>2026-07-22T15:53:01+00:00</lastmod>
   </url>
-
   <url>
-    <loc>https://molei314.github.io/soyo.html</loc>
-    <priority>1.00</priority>
+       <loc>https://molei314.github.io/soyo.html</loc>
+       <lastmod>2026-07-22T15:53:01+00:00</lastmod>
   </url>
-
 </urlset>
